@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BloodDonarApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_reg_main">RegMainActivity</string>
+    <string name="title_activity_search_main">SearchMainActivity</string>
+
+    <string-array name="city">
+        <item>Jabalpur</item>
+        <item>Bhopal</item>
+        <item>Katni</item>
+        <item>Indore</item>
+    </string-array>
+
+    <string-array name="bg">
+        <item>B+</item>
+        <item>AB+</item>
+        <item>O+</item>
+        <item>B-</item>
+        <item>AB-</item>
+        <item>O-</item>
+        <item>A+</item>
+        <item>A-</item>
+        
+        
+        
+        
+    </string-array>
+</resources>
